@@ -1,0 +1,13 @@
+.column {
+  float:left;
+  width: 20%;
+  background-color: pink;
+}
+.main {
+  float:left;
+}
+
+.side {
+  float:right;
+  width: 20%;
+}
